@@ -1,0 +1,12 @@
+path,true_label,predicted_label,damage_probability,calibrated_probability,uncertainty_std
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.934568_28.496004.jpeg,damage,no_damage,0.9476723670959473,0.9088237881660461,0.059176131885978936
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-95.078963_29.826764.jpeg,damage,no_damage,0.917302668094635,0.8710401654243469,0.30978129498537227
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.99995600000001_28.86675.jpeg,damage,no_damage,0.43821415305137634,0.45085883140563965,0.06133102519458335
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.985451_28.780958000000002.jpeg,damage,no_damage,0.848846971988678,0.7973552942276001,0.14693854112501953
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.985863_28.782155.jpeg,damage,no_damage,0.9798226952552795,0.9561586976051331,0.17509718930768334
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.998209_28.632618.jpeg,damage,no_damage,0.9996849298477173,0.9983417987823486,0.004888412488859958
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-95.485584_29.770865999999998.jpeg,damage,no_damage,0.9319595694541931,0.8887107372283936,0.24280188673869366
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.973036_28.483071999999996.jpeg,damage,no_damage,0.39414268732070923,0.41549405455589294,0.16841518140142633
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.934067_28.531459.jpeg,damage,no_damage,0.6362400650978088,0.6091698408126831,0.2696104049234312
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/damage/-96.904241_28.787507.jpeg,damage,no_damage,0.5121817588806152,0.5096710920333862,0.17931665579155093
+/kaggle/input/datasets/kmader/satellite-images-of-hurricane-damage/test/no_damage/-96.99042800000001_28.775361.jpeg,no_damage,damage,0.10320506244897842,0.15233831107616425,0.06303299514081519

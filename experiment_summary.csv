@@ -1,0 +1,4 @@
+experiment,epochs_run,batch_size,lr,optimizer,val_f1,val_recall,val_auc,training_time_s,test_f1,test_recall,test_auc
+1. ResNet-18 baseline,6,64,0.0001,AdamW,0.991,0.991,0.999759,155.50389575958252,,,
+2. EfficientNet-B0 initial,5,64,0.001,AdamW,0.9251769464105156,0.915,0.9755029999999999,123.90643000602722,,,
+3. EfficientNet-B0 fine-tuned,20,64,0.0001,AdamW,0.9909819639278558,0.989,0.9997484999999999,482.4364733695984,0.9945246391239423,0.999,0.999773
